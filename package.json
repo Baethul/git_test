@@ -1,0 +1,22 @@
+{
+  "name": "git_test",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[D\u001bThis is a test directory to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baethul/git_test.git"
+  },
+  "author": "Wade Pimenta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baethul/git_test/issues"
+  },
+  "homepage": "https://github.com/Baethul/git_test#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
